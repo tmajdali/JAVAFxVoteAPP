@@ -433,8 +433,8 @@ public class ClientV extends Application  {
 				public void run() {
     	
 					
-        String hostName = "205.178.20.186";
-        int portNumber = 3003;
+        String hostName = "x.x.x.x";
+        int portNumber = xxxx;
        
         try (
             Socket echoSocket = new Socket(hostName, portNumber);
