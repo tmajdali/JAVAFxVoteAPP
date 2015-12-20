@@ -143,7 +143,7 @@ public class Server extends Application  {
 					
 					System.out.println("Sender Start");
 					mapDB = getHashMap();
-					int portNumber = 3003;
+					int portNumber = xxxx;
 			         
 			        try (
 			            ServerSocket serverSocket =
